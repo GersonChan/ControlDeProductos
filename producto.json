@@ -1,0 +1,20 @@
+[
+  {
+    "tiempoGarantia": "1",
+    "voltaje": "5",
+    "codigo": "2",
+    "nombre": "nombre 2",
+    "descripcion": "amarillo",
+    "precioCompra": 11,
+    "precioVenta": 13
+  },
+  {
+    "tiempoGarantia": "2",
+    "voltaje": "9",
+    "codigo": "3",
+    "nombre": "nombre 3",
+    "descripcion": "verde",
+    "precioCompra": 10,
+    "precioVenta": 14
+  }
+]
